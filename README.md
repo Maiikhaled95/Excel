@@ -1,2 +1,2 @@
 # Excel
-Data Cleaning, Data Analysis and Data Visualization Project
+Data Cleaning, Data Analysis and Data Visualization Projects
