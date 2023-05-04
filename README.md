@@ -6,3 +6,6 @@ When stock level falls below the minimum, we need to re-order. Sometimes the sup
 Building ZenCo quote after checking the stock and which needs to re-order.
 
 The second project is building **ZenCo HR Database** through **Data Cleaning**, using **Excel Text Functions** (Concat/Concatenate/right/mid/left/find/len/proper/lower/upper/substitute), and checking if there's any duplicates using **Conditional Formatting**.
+
+The third project is **Analysis for School Payment Transation**
+Every few days they receive a text file from the bank detailing payments received (BPAY sheet). This information must be matched to the system data that has been downloaded into Excel (SYS DATA sheet) and a report produced that will be uploaded to the school system.
